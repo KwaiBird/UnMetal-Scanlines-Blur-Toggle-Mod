@@ -1,4 +1,4 @@
-# UnMetal Scanlines & Blur Toggle
+# [UnMetal](https://store.steampowered.com/app/1203710/UnMetal/) Scanlines & Blur Toggle
 
 UnMetalの走査線と画面ぼかしを個別にオン・オフできるようにし、レトロフィルターを消せるようにします。ウインドウ／フルスクリーンの設定は1行にまとめ、左右入力で選べるようにしました。これらの設定はゲーム中でも利用できます。また、元のゲームにある、より大きなウインドウ解像度へ切り替えると画面の一部が欠ける不具合も修正します。
 
