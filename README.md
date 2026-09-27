@@ -37,6 +37,10 @@ python src/build.py --game-dir "C:\Games\UnMetal"
 
 Use an unmodified copy of the supported game. The output is `build/SDL2.dll`. You can select a compiler with `--vcvars` and the path to `vcvarsall.bat`.
 
+## Development
+
+This Mod was created using OpenAI Codex.
+
 ## License
 
 The original code and documentation of this Mod are available under the [MIT License](LICENSE). This license does not grant rights to UnMetal or other third-party material. Original game files and SDL2 are not included; the Mod uses the SDL2 DLL from your game installation.
