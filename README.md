@@ -1,6 +1,6 @@
 # UnMetal Scanlines & Blur Toggle
 
-Turn UnMetal's scanlines and screen blur on or off independently to remove the retro filter. Windowed and fullscreen settings are combined into a single row, with Left/Right to choose a mode. These options are also available while playing.
+Turn UnMetal's scanlines and screen blur on or off independently to remove the retro filter. Windowed and fullscreen settings are combined into a single row, with Left/Right to choose a mode. These options are also available while playing. The Mod also fixes a bug in the original game where switching to a larger window resolution cuts off part of the image.
 
 [日本語](README.ja.md)
 
